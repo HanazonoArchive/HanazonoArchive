@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/Focus-GUI%20Tools%20%7C%20ML%20Apps%20%7C%20Web-0f2027?style=for-the-badge" alt="focus" />
 </p>
 
-## About me
+## About Me
 - 🔭 Building Java GUI tools and Streamlit ML apps
 - 🧠 Interested in data visualization, recommendation systems, and tooling automation
 - ⚙️ Comfortable across Java, Python, JavaScript, PHP, and Kotlin
 - 📌 Prefer clean UX with practical, fast-to-use utilities
 
-## Tech stack
+## Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## Featured projects
+## Featured Projects
 | Project | What it is | Tech |
 | --- | --- | --- |
 | [ECS](https://github.com/HanazonoArchive/ECS) | GUI energy system calculator for HSR & ZZZ | Java |
@@ -40,7 +40,7 @@
 | [SwapNodes Visualization](https://github.com/HanazonoArchive/SwapNodes-BinaryTreeVisualization) | Binary tree visualization for swap nodes | Java |
 | [CSE7 PHP Website](https://github.com/HanazonoArchive/CSE7PHPWebsite) | PHP-based web project | PHP |
 
-## GitHub by the numbers
+## GitHub by the Numbers
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HanazonoArchive&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanazonoArchive&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
