@@ -41,10 +41,6 @@
 | [CSE7 PHP Website](https://github.com/HanazonoArchive/CSE7PHPWebsite) | PHP-based web project | PHP |
 
 ## GitHub by the Numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanazonoArchive&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HanazonoArchive&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HanazonoArchive&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
