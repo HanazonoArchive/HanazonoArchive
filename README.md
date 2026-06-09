@@ -54,16 +54,6 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-## Featured Projects
-| Project | What it is | Tech |
-| --- | --- | --- |
-| [ECS](https://github.com/HanazonoArchive/ECS) | GUI energy system calculator for HSR & ZZZ | Java |
-| [ido-dds-editor](https://github.com/HanazonoArchive/ido-dds-editor) | GUI compiler/decompiler/converter for IDO/DDS files | JavaScript |
-| [CS20 Intrusion Detection](https://github.com/HanazonoArchive/CS20-Intrusion_Detection_System-Streamlit-) | Streamlit app for intrusion detection experiments | Python |
-| [Anime Recommender](https://github.com/HanazonoArchive/Anime-Recommender-ContentBased) | Content-based recommender with Streamlit UI | Python |
-| [SwapNodes Visualization](https://github.com/HanazonoArchive/SwapNodes-BinaryTreeVisualization) | Binary tree visualization for swap nodes | Java |
-| [CSE7 PHP Website](https://github.com/HanazonoArchive/CSE7PHPWebsite) | PHP-based web project | PHP |
-
 ## GitHub by the Numbers
 
 <p align="center">
