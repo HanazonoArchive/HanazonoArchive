@@ -19,7 +19,7 @@
 
 ## 🧭 About Me
 
-- 💼 **Backend Developer Intern** at Mugna Tech, building APIs with **Hono + TypeScript** on **Cloudflare Workers**
+- 💼 **Backend Developer Intern** at Mini Clean (Infosoft), building APIs with **Hono + TypeScript** on **Cloudflare Workers**
 - 🎓 4th-year Computer Science student
 - 🖥️ Also a part-time PC technician. My kiosk launcher [Chromatic-Menu](https://github.com/HanazonoArchive/Chromatic-Menu) runs on real PisoNet terminals
 - 🔧 Enjoy digging into how things work under the hood: file signatures, legacy network protocols, game modding
